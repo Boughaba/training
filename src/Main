@@ -3,3 +3,7 @@ Test Main
 deuxieme commit
 
 modification distante
+
+modification : git diff
+
+modification git diff --cached
